@@ -1,2 +1,3 @@
-# vscode-md-svelte
-Syntax highlighting for Svelte in Markdown and MDX code blocks
+# VS Code Svelte in MD & MDX
+
+Add syntax highlighting support for Svelte code blocks in MD and MDX.
